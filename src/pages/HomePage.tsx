@@ -29,7 +29,6 @@ const HomePage = () => {
           <div className="w-16 h-16 border-8 border-gray-200 rounded-full"></div>
           <div className="absolute top-0 left-0 w-16 h-16 border-8 border-red-500 border-t-transparent rounded-full animate-spin"></div>
         </div>
-        <p className="mt-6 text-xl text-gray-600 font-medium">Юкланмоқда...</p>
       </div>
     );
   }
