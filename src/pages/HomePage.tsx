@@ -1,6 +1,6 @@
 import { useQuery } from "@tanstack/react-query";
 import axios from "axios";
-import { Link } from "react-router-dom"; // ← Добавь этот импорт!
+import { Link } from "react-router-dom"; 
 
 interface User {
   id: number;
